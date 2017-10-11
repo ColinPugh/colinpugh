@@ -3,6 +3,10 @@ div{
 	padding-right: 180px;	
 }
 
+div.mc_embed_signup{
+	position:static;
+}
+
 p {
 	font-size: 12px;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
