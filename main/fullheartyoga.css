@@ -1,8 +1,13 @@
+#menu {
+    margin-left: 330px;
+    margin-right: 180px;
+    background-color: #393;
+}
+
 #ulmenu {
     list-style-type: none;
     padding: 0;
     overflow: hidden;
-    background-color: #393;
     width: 900px;
     margin-left: 250px;
     margin-top: 30px;
