@@ -7,6 +7,8 @@
 
 #limenu {
     float: left;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
 #limenu a {
