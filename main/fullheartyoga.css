@@ -5,24 +5,30 @@
     background-color: #393;
 }
 
-#limenu {
+.limenu {
     float: left;
     padding-top: 0px;
     padding-bottom: 0px;
 }
 
-#limenu a {
+.limenu a {
     display: block;
     color: white;
     text-align: center;
-    padding: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
     text-decoration: none;
     font-size: 18px;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
+    line-height: 50px;
 }
 
-#limenu a:hover {
+.limenu a:hover {
     background-color: #1f661f;
+}
+
+.limenu a i {
+    line-height: 50px;
 }
 
 #fullheart{
