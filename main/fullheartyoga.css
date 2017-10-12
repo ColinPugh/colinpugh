@@ -1,4 +1,5 @@
 #menu {
+    margin-top: 30px;
     margin-left: 330px;
     margin-right: 180px;
     background-color: #393;
@@ -9,8 +10,8 @@
     padding: 0;
     overflow: hidden;
     width: 900px;
-    margin-left: 250px;
-    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
     padding-left: 30px;
 }
 
