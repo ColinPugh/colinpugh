@@ -1,0 +1,74 @@
+div{
+	padding-left: 330px;
+	padding-right: 180px;	
+}
+
+p {
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #333333;
+}
+td {
+	font: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.req {
+	font-size: 12px;
+	color: #093;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #333333;
+}
+h3 {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #666666;
+}
+li {
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #333333;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+ul {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+h1 {
+	font-size: 24px;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.soldout {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #090;
+	font-style: bold;
+}
+p.quote {
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #666666;
+	font-weight: bold;
+}
+.earlybird {
+	color: #393;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+tr {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.formsxn {
+	color: #666666;
+	font-weight: bold;
+}
